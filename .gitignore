@@ -2,20 +2,13 @@
 .gitconfig
 
 # unity generated folders
-library/
-temp/
-obj/
-build/
-builds/
-logs/
-bin/
-Library/
-Temp/
-Obj/
-Build/
-Builds/
-Logs/
-Bin/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Bb]in/
 
 # settings
 [Pp]rojectSettings/
